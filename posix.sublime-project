@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+    "sublimeclang_options":
+    [
+      "-I/usr/include/boost",
+      "-I/usr/include/boost/**"
+    ],
+    
+}
