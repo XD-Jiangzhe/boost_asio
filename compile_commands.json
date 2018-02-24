@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/router/Documents/boost_asio/posix_time",
+  "command": "/usr/bin/c++     -g   -std=gnu++14 -o CMakeFiles/bind.dir/bind.cc.o -c /home/router/Documents/boost_asio/posix_time/bind.cc",
+  "file": "/home/router/Documents/boost_asio/posix_time/bind.cc"
+},
+{
+  "directory": "/home/router/Documents/boost_asio/posix_time",
+  "command": "/usr/bin/c++     -g   -std=gnu++14 -o CMakeFiles/printer.dir/printer.cc.o -c /home/router/Documents/boost_asio/posix_time/printer.cc",
+  "file": "/home/router/Documents/boost_asio/posix_time/printer.cc"
+},
+{
+  "directory": "/home/router/Documents/boost_asio/posix_time",
+  "command": "/usr/bin/c++     -g   -std=gnu++14 -o CMakeFiles/posix_time.dir/main.cc.o -c /home/router/Documents/boost_asio/posix_time/main.cc",
+  "file": "/home/router/Documents/boost_asio/posix_time/main.cc"
+},
+{
+  "directory": "/home/router/Documents/boost_asio/posix_time",
+  "command": "/usr/bin/c++     -g   -std=gnu++14 -o CMakeFiles/daytime.dir/daytime.cc.o -c /home/router/Documents/boost_asio/posix_time/daytime.cc",
+  "file": "/home/router/Documents/boost_asio/posix_time/daytime.cc"
+}
+]
